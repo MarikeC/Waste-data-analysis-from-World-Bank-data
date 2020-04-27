@@ -13,3 +13,6 @@ It has been a very enlightning project with some disappointment when cleaning th
 
 That being said, the remaining information was not numerous but it allowed me to draw basic conclusion about
 the relationship between GDP and waste generation and the unsustainability of our economic system.
+
+All my data journey steps are explained in this presentation: https://docs.google.com/presentation/d/e/2PACX-1vSvxY1i37oLF2oFjll4tSeskKEmFN7yRBNK3_YDEiV1H2AkwChOY8F37iN2eLrrz2S5UWAtRjHyYHxO/pub?start=false&loop=false&delayms=2000
+
